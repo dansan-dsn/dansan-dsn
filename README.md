@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Dansan Dsn
 
-[My profile](https://github.com/dansan-dsn) to explore my repositories.
+[My profile](https://github.com/dansan-dsn?tab=repositories) to explore my repositories.
 
 ## 📚 About Me
 I'm a Software developer with a passion for coding, and learning more. Currently exploring PHP.
