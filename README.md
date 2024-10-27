@@ -16,6 +16,7 @@ I'm a Software developer with a passion for coding, and learning more. Currently
 ## 💼 Work Experience
 - **[Software Developter] at [Vlearned]** (2024)
   - Worked on an inventory system
+  - Currenlty on a BlogPost project
 
 ## 📖 Learning Journey
 - Currently learning [PHP].
