@@ -27,7 +27,7 @@ I'm a Software developer with a passion for coding and learning more. Currently 
 - Currently learning **PHP**.
 
 ## 🌍 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/Dansan-d.s.n) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=) ![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&label=)
+- (https://www.linkedin.com/in/Dansan-d.s.n) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=) ![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&label=)
 
 ## 📚 Favorite Resources
 - **Websites:** [MDN Web Docs](https://developer.mozilla.org/en/): Great resource for JavaScript.
