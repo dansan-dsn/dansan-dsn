@@ -27,7 +27,6 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
 
----
 
 ### 🔥 GitHub Stats
 
@@ -35,7 +34,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
----
 
 ### 📫 Connect with me:
 
@@ -46,7 +44,6 @@
   <a href="https://github.com/dansan-dsn" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="30"/></a>
 </p>
 
----
 
 ### 💡 Developer Resources
 
