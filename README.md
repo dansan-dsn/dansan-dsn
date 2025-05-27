@@ -40,15 +40,13 @@
 
 ### 💡 Developer Resources
 
-<p>
-  <a href="https://developer.mozilla.org/">
-    <img src="https://img.icons8.com/color/48/000000/mozilla-firefox.png" width="30" alt="MDN" />
-  </a> &nbsp;|&nbsp;
-  <a href="https://stackoverflow.com">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="30" alt="Stack Overflow" />
-  </a> &nbsp;|&nbsp;
-  <a href="https://www.freecodecamp.org/">
-    <img src="https://img.icons8.com/color/48/000000/code-fork.png" width="30" alt="FreeCodeCamp" />
-  </a>
-</p>
+<a href="https://developer.mozilla.org/">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mdnwebdocs.svg" width="30" alt="MDN" />
+</a> &nbsp;|&nbsp;
+<a href="https://stackoverflow.com">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg" width="30" alt="Stack Overflow" />
+</a> &nbsp;|&nbsp;
+<a href="https://www.freecodecamp.org/">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/freecodecamp.svg" width="30" alt="FreeCodeCamp" />
+</a>
 
