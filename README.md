@@ -1,64 +1,57 @@
-<table>
-  <tr>
-    <td width="180px" valign="top">
-      <img src="https://avatars.githubusercontent.com/u/66956357?v=4" width="160px" alt="Dansan Dsn Profile Picture" style="border-radius: 8px;" />
-    </td>
-    <td valign="top">
-      <h1>👋 Hi there, I'm Dansan Dsn</h1>
-      <p>
-        <a href="https://github.com/dansan-dsn?tab=repositories">
-          🚀 <strong>Explore my repositories</strong>
-        </a>
-      </p>
-      <p>I'm a passionate <strong>Full-Stack Software Developer</strong> with a growing focus on <strong>PHP</strong>, currently building web applications that solve real-world problems.</p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Dansan Dsn</h1>
+<p align="center">A passionate full-stack software developer 😄</p>
 
----
-
-## 🛠️ Technical Skills
-
-### 🧠 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</p>
-
-### 🎨 Frontend Technologies
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-### 🧰 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 🧰 Languages and Tools:
 
-<p>
-  <a href="https://www.linkedin.com/in/Dansan-d.s.n">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/dsn970">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" />
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 📫 Connect with me:
+
+<p align="center">
+  <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
+  <a href="https://www.linkedin.com/in/Dansan-d.s.n" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
+  <a href="https://stackoverflow.com/users/your_id" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
+  <a href="https://github.com/dansan-dsn" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="30"/></a>
+</p>
+
+---
+
+### 💡 Developer Resources
+
+- [MDN Web Docs](https://developer.mozilla.org/)  
+- [Stack Overflow](https://stackoverflow.com)  
+- [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
