@@ -50,8 +50,9 @@
 
 ### 💡 Developer Resources
 
-- [MDN Web Docs](https://developer.mozilla.org/)  
-- [Stack Overflow](https://stackoverflow.com)  
-- [freeCodeCamp](https://www.freecodecamp.org/)
-
+<p align="center">
+  <a href="https://developer.mozilla.org/">MDN Web Docs</a> &nbsp;|&nbsp;
+  <a href="https://stackoverflow.com">Stack Overflow</a> &nbsp;|&nbsp;
+  <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+</p>
 ---
