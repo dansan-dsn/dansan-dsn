@@ -1,14 +1,19 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#4FC08D;">Dansan Dsn</span></h1>
-
-<p align="center">
-  <a href="https://github.com/dansan-dsn?tab=repositories">🚀 Explore my repositories</a>
-</p>
-
----
-
-## 📚 About Me
-
-I'm a passionate **Full-Stack Software Developer** currently diving deeper into **PHP** while building scalable and robust web applications. I enjoy turning ideas into code and solving real-world problems through technology.
+<table>
+  <tr>
+    <td width="180px" valign="top">
+      <img src="https://avatars.githubusercontent.com/u/66956357?v=4" width="160px" alt="Dansan Dsn Profile Picture" style="border-radius: 8px;" />
+    </td>
+    <td valign="top">
+      <h1>👋 Hi there, I'm Dansan Dsn</h1>
+      <p>
+        <a href="https://github.com/dansan-dsn?tab=repositories">
+          🚀 <strong>Explore my repositories</strong>
+        </a>
+      </p>
+      <p>I'm a passionate <strong>Full-Stack Software Developer</strong> with a growing focus on <strong>PHP</strong>, currently building web applications that solve real-world problems.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
