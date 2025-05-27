@@ -25,15 +25,13 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
 
-### 🔥 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### 📫 Connect with me:
 
-<p align="center">
+<p>
   <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
   <a href="https://www.linkedin.com/in/Dansan-d.s.n" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
   <a href="https://stackoverflow.com/users/your_id" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
@@ -42,7 +40,7 @@
 
 ### 💡 Developer Resources
 
-<p align="center">
+<p>
   <a href="https://developer.mozilla.org/">MDN Web Docs</a> &nbsp;|&nbsp;
   <a href="https://stackoverflow.com">Stack Overflow</a> &nbsp;|&nbsp;
   <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
