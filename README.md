@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
 ### 🧰 Languages and Tools:
 
 <p align="center">
@@ -27,13 +25,11 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
 
-
 ### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
 
 ### 📫 Connect with me:
 
@@ -43,7 +39,6 @@
   <a href="https://stackoverflow.com/users/your_id" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
   <a href="https://github.com/dansan-dsn" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="30"/></a>
 </p>
-
 
 ### 💡 Developer Resources
 
