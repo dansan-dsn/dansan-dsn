@@ -30,48 +30,9 @@ I'm a passionate software developer with expertise in full-stack development. Cu
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🌟 Featured Projects
-
-### [Todo Application](https://github.com/dansan-dsn/Node-Todo)
-A full-featured Todo app with CRUD functionality built with Node.js
-
-## 💼 Professional Experience
-
-**Software Developer @ Vlearned** (2024 - Present)
-- Developed an inventory management system
-- Building a scalable BlogPost platform
-- Collaborating with cross-functional teams
-
-## 📚 Continuous Learning
-Currently deepening my knowledge in:
-- PHP backend development
-- Advanced database design
-- System architecture
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Dansan-d.s.n)
 - [![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/dsn970)
 
-## 📖 Developer Resources
-My go-to learning materials:
-- [MDN Web Docs](https://developer.mozilla.org/) - Ultimate JavaScript reference
-- [Stack Overflow](https://stackoverflow.com) - Problem-solving community
-- [freeCodeCamp](https://www.freecodecamp.org/) - Free coding tutorials
 
-## 🚀 Upcoming Projects
-- University Management System
-- E-commerce platform
-- Open-source contribution projects
-
-## ❓ FAQ
-
-**Q:** How can I contribute to your projects?  
-**A:** Fork the repo → Create your feature branch → Submit a PR with clear description
-
-**Q:** Where to find your latest work?  
-**A:** Check my pinned repositories or [all projects](https://github.com/dansan-dsn?tab=repositories)
-
-## 🎉 Fun Facts
-- Coding enthusiast by day, foodie by night
-- Believe in "Learn by building" philosophy
-- Open-source advocate
