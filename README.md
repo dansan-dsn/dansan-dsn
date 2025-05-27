@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 🧰 Languages and Tools:
+### 🧰 Languages and Tools
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
@@ -29,7 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-### 📫 Connect with me:
+### 📫 Connect with me
 
 <p>
   <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
