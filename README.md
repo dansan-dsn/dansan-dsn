@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=dansan-dsn&bg=1d1d1d&color=00ff00&line=2affff&point=ffffff" />
 </p>
 
 ### 📫 Connect with me
