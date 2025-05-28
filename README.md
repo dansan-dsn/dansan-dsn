@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/dansan-dsn" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### 📫 Connect with me
