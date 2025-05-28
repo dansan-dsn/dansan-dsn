@@ -25,13 +25,23 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
 </p>
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dansan-dsn&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansan-dsn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### 📫 Connect with me
 
-<p>
+<p align="center">
   <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
   <a href="https://www.linkedin.com/in/Dansan-d.s.n" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
   <a href="https://stackoverflow.com/users/your_id" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
@@ -43,4 +53,3 @@
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-
