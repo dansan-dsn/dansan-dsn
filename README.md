@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=dansan-dsn&bg=1d1d1d&color=00ff00&line=2affff&point=ffffff" />
+  <img src="https://ghchart.rshah.org/dansan-dsn" />
 </p>
 
 ### 📫 Connect with me
