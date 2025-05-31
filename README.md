@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
-  <a href="https://www.linkedin.com/in/Dansan-d.s.n" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
+  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
   <a href="https://stackoverflow.com/users/1234567/dansan-dsn" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
   <a href="https://github.com/dansan-dsn" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="30"/></a>
 </p>
