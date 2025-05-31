@@ -11,6 +11,7 @@
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" />
   <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
