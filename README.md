@@ -1,55 +1,84 @@
-<h1 align="center">Hi 👋, I'm Dansan Dsn</h1>
-<p align="center">A passionate software developer 😄</p>
+<h1 align="center">Dansan Dsn</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-### 🧰 Languages and Tools
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" />
-  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dansan-dsn&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  Software Developer focused on building clean, practical, and scalable web and mobile applications.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansan-dsn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## Tech Stack
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dansan-dsn&show_icons=true&hide_border=true&theme=transparent" alt="Dansan's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dansan-dsn&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
 </p>
-
-### 📫 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
-  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
-  <a href="https://stackoverflow.com/users/1234567/dansan-dsn" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
-  <a href="https://github.com/dansan-dsn" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="30"/></a>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dansan-dsn&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
 </p>
 
-### 💡 Developer Resources
+---
 
-[![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
-[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
+## Connect
 
-<!-- Force refresh May 2025 -->
+<p>
+  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/dsn970">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://github.com/dansan-dsn">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## Developer Resources
+
+A few references I regularly find useful:
+
+- [MDN Web Docs](https://developer.mozilla.org/) — Web platform documentation and references
+- [Stack Overflow](https://stackoverflow.com/) — Developer questions and community solutions
+- [freeCodeCamp](https://www.freecodecamp.org/) — Practical programming tutorials and learning resources
