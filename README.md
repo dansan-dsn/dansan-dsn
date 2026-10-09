@@ -1,46 +1,87 @@
+
 <h1 align="center">Hi 👋, I'm Dansan Dsn</h1>
 <p align="center">A passionate software developer 😄</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/dansan-dsn">
+    <img
+      src="https://komarev.com/ghpvc/?username=dansan-dsn&label=Profile%20views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
+  </a>
 </p>
 
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" />
-  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" />
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React & React Native" />
+  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" title="Vue.js" />
+  <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" />
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" title="MySQL" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" title="Figma" />
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux" title="Linux" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dansan-dsn&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dansan-dsn&theme=github_dark" alt="Top Languages" />
+  <a href="https://github.com/dansan-dsn">
+    <img
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=dansan-dsn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+      alt="Dansan's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/dansan-dsn?tab=repositories">
+    <img
+      width="49%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dansan-dsn&theme=github_dark"
+      alt="Languages Used in Commits"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dansan-dsn&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/dansan-dsn">
+    <img
+      width="98%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansan-dsn&theme=github_dark"
+      alt="GitHub Contribution Summary"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dansan-dsn">
+    <img
+      src="https://streak-stats.demolab.com?user=dansan-dsn&theme=github-dark-blue&hide_border=true"
+      alt="GitHub Streak Stats"
+    />
+  </a>
 </p>
 
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/dsn970" target="_blank"><img src="https://img.icons8.com/fluency/48/twitter.png" width="30"/></a>
-  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="30"/></a>
-  <a href="https://stackoverflow.com/users/1234567/dansan-dsn" target="_blank"><img src="https://img.icons8.com/color/48/stackoverflow.png" width="30"/></a>
-  <a href="https://github.com/dansan-dsn" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="30"/></a>
+  <a href="https://twitter.com/dsn970" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/twitter.png" width="30" alt="Twitter" title="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/1234567/dansan-dsn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/stackoverflow.png" width="30" alt="Stack Overflow" title="Stack Overflow" />
+  </a>
+  <a href="https://github.com/dansan-dsn" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="30" alt="GitHub" title="GitHub" />
+  </a>
 </p>
 
 ### 💡 Developer Resources
@@ -48,5 +89,3 @@
 [![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com)
 [![freeCodeCamp](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-
-<!-- Force refresh May 2025 -->
