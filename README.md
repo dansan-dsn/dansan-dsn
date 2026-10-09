@@ -29,60 +29,51 @@
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
 </p>
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/dansan-dsn">
-    <img
-      width="49%"
-      src="https://github-readme-stats.vercel.app/api?username=dansan-dsn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-      alt="Dansan's GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/dansan-dsn?tab=repositories">
-    <img
-      width="49%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dansan-dsn&theme=github_dark"
-      alt="Languages Used in Commits"
-    />
-  </a>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=dansan-dsn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=21600"
+    alt="GitHub Stats"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dansan-dsn&theme=github_dark"
+    alt="Most Used Languages"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/dansan-dsn">
-    <img
-      width="98%"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansan-dsn&theme=github_dark"
-      alt="GitHub Contribution Summary"
-    />
-  </a>
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dansan-dsn&theme=github_dark"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/dansan-dsn">
-    <img
-      src="https://streak-stats.demolab.com?user=dansan-dsn&theme=github-dark-blue&hide_border=true"
-      alt="GitHub Streak Stats"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=dansan-dsn&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/dsn970" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/48/twitter.png" width="30" alt="Twitter" title="Twitter" />
+  <a href="https://twitter.com/dsn970">
+    <img src="https://img.icons8.com/fluency/48/twitter.png" width="30" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn" title="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dansan-ankunda-065364289/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn" />
   </a>
-  <a href="https://stackoverflow.com/users/1234567/dansan-dsn" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/stackoverflow.png" width="30" alt="Stack Overflow" title="Stack Overflow" />
-  </a>
-  <a href="https://github.com/dansan-dsn" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="30" alt="GitHub" title="GitHub" />
+  <a href="https://github.com/dansan-dsn">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png" width="30" alt="GitHub" />
   </a>
 </p>
+
 
 ### 💡 Developer Resources
 
